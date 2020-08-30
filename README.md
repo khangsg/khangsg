@@ -6,8 +6,8 @@ ERP Junkie |Odoo Fellow | Python | Javascript | Odoo Functional Consultant | Bus
 
 [My personal home page](https://odoo-vn.com)
 
-![KhangSG's github stats](https://github-readme-stats.vercel.app/api?username=khangsaigon)
+![KhangSG's github stats](https://github-readme-stats.vercel.app/api?username=khangsg)
 <br/>
-![KhangSG's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangsaigon&layout=compact)
+![KhangSG's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangsg&layout=compact)
 
 
